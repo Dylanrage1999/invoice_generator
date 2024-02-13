@@ -38,7 +38,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://dylanrage1999.github.io/invoice_generator",
   "eslintConfig": {
     "extends": [
       "react-app",
